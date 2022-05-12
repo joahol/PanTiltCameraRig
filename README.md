@@ -8,8 +8,8 @@ Future version: Aims to implement streaming video using the ESP32 CAM module.
 
 ### Parts
 To build this plattform the following parts required
-smal pan tilt brackets.
-2 SG micro servo engines
+smal pan tilt brackets, available at ebay such as(https://www.ebay.com/itm/284723847214?hash=item424add202e:g:m3AAAOSwi7piPVUx).
+2 SG 90  micro servo engines, alternativly use mg 90(made in metall compared to sg90 plastic)
 1 ESP32D Wroom developent board.
 
 ### Requirements
