@@ -18,3 +18,9 @@ This project is dependent on the ESP32Servo Library by Kevin Harrington.
 ### Wiering
 
 ![Alt text](/RigSchema.jpg?raw=true "Wireing schema")
+
+
+
+### Code
+To use the code, there are two lines of code that need to be altered to make it applicable on your network. The ssid and password must match
+the credidential on your wifi setup.
