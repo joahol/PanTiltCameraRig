@@ -14,3 +14,7 @@ smal pan tilt brackets, available at ebay such as(https://www.ebay.com/itm/28472
 
 ### Requirements
 This project is dependent on the ESP32Servo Library by Kevin Harrington.
+
+### Wiering
+
+![Alt text](/RigSchema.jpg?raw=true "Wireing schema")
